@@ -443,7 +443,7 @@ After evaluation, I used ChatGPT to identify patterns in the model’s wrong pre
 
 Demo Video
 
-Demo video link: TODO
+Demo video link: https://youtu.be/i37yw6UNpss
 
 The demo shows:
 
